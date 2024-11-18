@@ -17,7 +17,7 @@ sudo apt-get install cmake
 sudo apt-get install python3-dev  
   
 # for openh264  
-sudo apt-get install nasm  
+sudo apt-get install yasm nasm  
 
 # networking  
 sudo apt-get install libssl-dev  
