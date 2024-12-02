@@ -14,7 +14,7 @@ sudo apt-get install pkg-config
 sudo apt-get install cmake  
 
 # to support python  
-sudo apt-get install python3-dev  
+sudo apt-get install python3-dev python-is-python3    
   
 # for openh264  
 sudo apt-get install yasm nasm  
